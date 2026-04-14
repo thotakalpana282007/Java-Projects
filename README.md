@@ -37,6 +37,24 @@ A console-based Java game where:
 - Logic building
 
 ---
+### 🎮 Tic Tac Toe Game
+
+A two-player console-based Java game where:
+
+- Two players take turns (X and O)
+- The game runs on a 3x3 board
+- Checks for win conditions (rows, columns, diagonals)
+- Detects draw situations
+
+### Concepts Used:
+
+- Arrays
+- Loops
+- Conditional statements
+- Methods
+- Game logic building
+
+---
 
 ## 🚀 Future Plans
 
